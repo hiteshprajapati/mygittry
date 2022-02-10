@@ -1,2 +1,2 @@
 # mygittry
-git try repo
+git try repo dev
