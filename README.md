@@ -1,2 +1,3 @@
 # mygittry
-git try repo
+git try repo commit 1
+commit 1
